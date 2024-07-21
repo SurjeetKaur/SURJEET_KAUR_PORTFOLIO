@@ -201,7 +201,7 @@ height: 40px !important;
 /*    Resume section*/
 
 .resume-section{
-  background:linear-gradient(to right,#2c3e50,#ffff, #1ABC9C );
+  background-color:#fff;
 }
 .resume-section h1{
   color:black;
