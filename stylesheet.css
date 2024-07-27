@@ -292,7 +292,7 @@ height: 40px !important;
 /*Contact*/
 
 .contact-section{
-  background: url(/images/contact-background.jpg) no-repeat center center/cover;
+  background: url(./images/contact-background.jpg) no-repeat center center/cover;
   color:white;
   overflow-y:auto;
   overflow: hidden;
