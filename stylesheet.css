@@ -44,7 +44,7 @@ h1,h2,h3,h4,h5,h6,a {
  /*banner*/
 
  .banner {
-    background: url(/images/banner-image.jpg) no-repeat center center/cover;
+    background: url(./images/banner-image.jpg) no-repeat center center/cover;
     /*background: url(/images/background-test.jpg) no-repeat center center/cover;*/
     height: 100vh;
     display: flex;
