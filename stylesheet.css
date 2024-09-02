@@ -279,7 +279,7 @@ h1,h2,h3,h4,h5,h6,a {
 
 .card{
   margin-bottom:30px;
-  
+  color:black;
   box-shadow: 0 10px 10px -2px #1f5297;
 }
 .card-img-top { 
