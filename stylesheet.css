@@ -15,7 +15,7 @@ h1,h2,h3,h4,h5,h6,a {
 /* Navbar*/
 
 .nav-custom{
-   background: linear-gradient(to bottom,#2c3e50, #1ABC9C);
+   background-color:#2c3e50;
 }
 
 .navbar-brand i,a{
@@ -58,12 +58,12 @@ h1,h2,h3,h4,h5,h6,a {
 
 
 .banner-content {
-    background-color:#1ABC9C;
+    background-color:#2c3e50;
     padding: 30px;
     border-radius: 10px;
     box-shadow: 5px 10px black;
     /*margin-top: 60px;*/
-    opacity:0.9;
+    opacity:0.8;
 
 }
 
@@ -84,10 +84,6 @@ h1,h2,h3,h4,h5,h6,a {
     border-bottom: 2px solid #0f0f0f;
     display: inline-block;
   }
-
-
-
-
 
 
 /*about me*/
@@ -275,14 +271,15 @@ h1,h2,h3,h4,h5,h6,a {
 /* projects*/
 
 .projects-section{
-  background-color: #1ABC9C;
+  background-color: #2c3e50;
   overflow-y: auto;
   overflow:hidden;
+  color:white;
 }
 
 .card{
   margin-bottom:30px;
-  
+  color:black;
   box-shadow: 0 10px 10px -2px #1f5297;
 }
 .card-img-top { 
@@ -297,8 +294,9 @@ h1,h2,h3,h4,h5,h6,a {
 /*Contact*/
 
 .contact-section{
-  background: url(./images/contact-background.jpg) no-repeat center center/cover;
-  color:white;
+  /*background: url(./images/contact-background.jpg) no-repeat center center/cover;*/
+  
+  color:black;
   overflow-y:auto;
   overflow: hidden;
 }
@@ -307,8 +305,8 @@ h1,h2,h3,h4,h5,h6,a {
 }
 
 #contact-form{
-  opacity:0.8;
-  background: linear-gradient(to right,#2c3e50, #1ABC9C);
+  background-color:#2c3e50;
+  color:white;
   padding: 10px;
   margin: 40px 0px;
   border-radius: 4px;
@@ -324,7 +322,7 @@ h1,h2,h3,h4,h5,h6,a {
 
 /* Footer*/
 #footer{
-  background: linear-gradient(to bottom,#2c3e50, #1ABC9C);
+  background-color: #2c3e50;
   height: 100px;
   width:100%;
   text-align: center;
