@@ -1,3 +1,4 @@
+// for block in banner container
 document.addEventListener('DOMContentLoaded', () => {
     const elements = document.querySelectorAll('.typed');
     elements.forEach((element) => {
