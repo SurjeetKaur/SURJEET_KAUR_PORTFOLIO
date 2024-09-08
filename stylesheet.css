@@ -27,7 +27,7 @@ h1,h2,h3,h4,h5,h6,a {
     font-family: "Raleway", sans-serif;
   }
   .nav-custom .nav-link:hover{
-    color: black; /* black on hover */
+    color: black; /* black on hover  */
     background-color:white;
     border-radius: 5px;   
   }
@@ -40,6 +40,20 @@ h1,h2,h3,h4,h5,h6,a {
  .navbar-nav .nav-item .nav-link i{
     padding: 5px;
  }
+ .navbar-toggler-icon{
+  color:white;
+ }
+
+button.navbar-toggler{
+  color: #2c3e50 !important;
+  border:none;
+  outline:none;
+}
+
+
+
+ 
+
 
  /*banner*/
 
@@ -268,6 +282,12 @@ h1,h2,h3,h4,h5,h6,a {
   border: 2px solid #1f5297;
 }
 
+#download-resume{
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;  
+}
 /* projects*/
 
 .projects-section{
