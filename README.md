@@ -27,8 +27,6 @@ Google Fonts (Roboto,Open Sans and Raleway)
 # Getting Started:
 To view the website, simply open the index.html file in a web browser or select option to run on live Server(Extension) in Visual Studio Code
 
-# License:
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Author:
 Surjeet Kaur - Web Developer and Designer
